@@ -1,88 +1,75 @@
-
-<h1 align="center">Upendra Kumar Kushwaha</h1>
-
-<h3 align="center">
-  Aspiring AI/ML Engineer | Python Developer
-</h3>
+Hi there! 👋 I'm Upendra Kumar Kushwaha
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Artificial%20Intelligence%20%26%20Machine%20Learning&fontSize=24&fontColor=00D9FF&animation=fadeIn" width="100%"/>
-</p>
-
-<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=UPENDRA%20KUSHWAHA&fontSize=40&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=60&descSize=18" width="100%"/>
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Aspiring+AI%2FML+Engineer;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects" />
+</p><p align="center">
   <a href="https://github.com/mrupendrakushwaha">
-    <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/upendra-kushwaha-b77227403">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
+</p>---
+
+👨‍💻 About Me
+
+- 🎓 B.Tech AIML Student at Shri Ram Institute of Technology, Jabalpur
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Python, Deep Learning, SQL and Data Science
+- 🚀 Building practical AI/ML projects
+- 🎯 Aspiring AI/ML Engineer
 
 ---
 
-## PROFILE
-
-B.Tech student specializing in Artificial Intelligence and Machine Learning at Shri Ram Institute of Technology, Jabalpur.
-
-Focused on building practical machine learning applications, exploring data science, and developing AI-driven solutions to real-world problems.
-
-## TECHNICAL SKILLS
-
-**Programming**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-**Machine Learning & Data Science**
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-00A896?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6C63FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-0077B6?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-FF9F1C?style=flat-square"/>
-</p>
-
-**Libraries & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
----
-
-## FEATURED PROJECTS
-
-### 01 — AI Placement Assistant Pro
-
-AI-based placement preparation application designed to support students in their career preparation.
-
-[View Repository →](https://github.com/mrupendrakushwaha/Ai-Placement-Assistant-Pro)
-
-### 02 — AI Smart Waste Management System
-
-Deep Learning-based project focused on waste classification and smart waste management.
-
-[View Repository →](https://github.com/mrupendrakushwaha/AI-Powered-Smart-Waste-Management-System-Using-Deep-Learning)
-
-### 03 — AI-Powered Weather Forecasting
-
-Machine Learning project using Random Forest Classification for weather condition prediction.
-
-[View Repository →](https://github.com/mrupendrakushwaha/AI-Powered-Weather-Forecasting-using-Machine-Learning)
-
----
-
-## CONNECT
-
-<p>
-  <a href="https://www.linkedin.com/in/upendra-kushwaha-b77227403">
-    <img src="https://img.shields.io/badge/LinkedIn-Upendra_Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+⚡ Tech Stack
 
 <p align="center">
-  <i>Building intelligent solutions through continuous learning and innovation.</i>
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,git,vscode,tensorflow&theme=dark" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>---
+
+🚀 Featured Projects
+
+🤖 AI Placement Assistant Pro
+
+AI-based placement preparation project.
+
+<p>
+  <a href="https://github.com/mrupendrakushwaha/Ai-Placement-Assistant-Pro">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>♻️ AI Smart Waste Management System
+
+Deep Learning-based waste management and classification project.
+
+<p>
+  <a href="https://github.com/mrupendrakushwaha/AI-Powered-Smart-Waste-Management-System-Using-Deep-Learning">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>🌦️ AI-Powered Weather Forecasting
+
+Weather prediction using Machine Learning and Random Forest Classification.
+
+<p>
+  <a href="https://github.com/mrupendrakushwaha/AI-Powered-Weather-Forecasting-using-Machine-Learning">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-448AFF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>---
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/upendra-kushwaha-b77227403">
+    <img src="https://img.shields.io/badge/LinkedIn-Upendra_Kushwaha-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+</p><p align="center">
+  <b>Building Intelligent Solutions | Learning | Innovating</b>
 </p>
